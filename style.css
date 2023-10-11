@@ -1,0 +1,30 @@
+h1 {
+  display: block;
+  background-color: blue;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  display: block;
+  text-align: center;
+  background-color: coral;
+  padding: 30px;
+}
+
+.list-container {
+  text-align: center;
+  display: block;
+  background-color: brown;
+  width: 100%;
+}
+
+.list-container ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 30px;
+  width: 30px;
+}
